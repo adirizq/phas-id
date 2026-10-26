@@ -1,0 +1,1634 @@
+{
+  "2086988": {
+    "plot": [
+      {
+        "claim": "The author often opens with an immediate, personal burst of feeling, making the post sound like a live reaction rather than a carefully staged introduction.",
+        "evidence": "I was lying in bed and I was thinking about today and the things that happened and I just had to get this out, if not I'm going to go insane. [2]"
+      },
+      {
+        "claim": "The author sometimes frames a post through a personal discovery or present-moment setup before introducing the main subject.",
+        "evidence": "\"Woo look what I found! My Tribute to a World Leader paper from my freshman year in AP World Geography. Ahh this was such a good paper :)\" [3]"
+      },
+      {
+        "claim": "The author often develops posts by moving through events or points in sequence, creating a chain-like flow rather than stating one tightly focused thesis at the start.",
+        "evidence": "See, Em wanted to go get some ice cream because we were going to have a movie and night, so we drive to the store and Chris meets us there. Well, we hang for a bit, get the ice cream then leave. Chris thinks it's a cool idea to follow Em out to my house"
+      },
+      {
+        "claim": "The author uses simple conversational pivots to move from one beat to the next.",
+        "evidence": "And to top that off, my parents are fighting and I'm put in the middle again. [2]"
+      },
+      {
+        "claim": "The author sometimes delays the main incident until after situational background has been established.",
+        "evidence": "But anyways we get back to my house, getting ready to watch movies and Em gets a call from Chris, he's had a wreck and he doesn't know where he is"
+      },
+      {
+        "claim": "The author can organize a piece as a straight chronological timeline, especially when summarizing a public figure's life or accomplishments.",
+        "evidence": "\"William Jefferson Clinton was born on August 19,1946, in Hope, Arkansas.\" [3]"
+      },
+      {
+        "claim": "The author sometimes structures the middle of a post as an accumulating list of achievements or events marked by repetitive time cues.",
+        "evidence": "\"During Clinton\u2019s first year in office... In 1994... Then in 1995... After re-election in 1996... In 1997... Then in 1998...\" [3]"
+      },
+      {
+        "claim": "The author often closes on lingering emotion or attachment rather than neat resolution.",
+        "evidence": "The only thing that truly makes me happy in my life, is David, he has got to be the most perfect guy. [2]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author often mixes informal, playful presentation with heavier subject matter, creating a noticeable tonal mismatch.",
+        "evidence": "\"Woo look what I found! My Tribute to a World Leader paper from my freshman year in AP World Geography. Ahh this was such a good paper :)\" [3]"
+      },
+      {
+        "claim": "The author reframes serious situations through interpersonal or emotional drama, so the practical event becomes a story about relationships and tension.",
+        "evidence": "Chris, Em's ex had a wreck near my house... I didn't need a guy following us home."
+      },
+      {
+        "claim": "The author mixes distress with joking or playful phrasing in a diaristic way.",
+        "evidence": "Well since I already have eating issues anyways, Ritika and Kiera know, they've talked to me about it, lol Ritika said if I didn't eat she'd beat me up. [2]"
+      },
+      {
+        "claim": "The author uses colloquial metaphors to dramatize emotional situations in everyday terms.",
+        "evidence": "stop making me play monkey in the middle [2]"
+      },
+      {
+        "claim": "The author sometimes builds interest through a contrast between a person's public failure and their achievements.",
+        "evidence": "\"Usually the 1998 scandal involving Monica Lewinsky. But out of that one downfall, he has had many achievements during the 8 years of his presidency.\" [3]"
+      },
+      {
+        "claim": "The author injects mischievous comedy into tense situations by describing playful behavior during the conflict.",
+        "evidence": "Well I was playing around and I locked Chris out of my gate"
+      },
+      {
+        "claim": "The author often treats romantic feeling as a bright emotional counterweight to surrounding chaos.",
+        "evidence": "The only thing that truly makes me happy in my life, is David, he has got to be the most perfect guy. [2]"
+      },
+      {
+        "claim": "The author often turns narration into self-defense, making blame part of the post's energy.",
+        "evidence": "Ok, yeah well number 1, he didn't have to follow us period and second he could of just went back down the main road"
+      },
+      {
+        "claim": "The author sometimes includes colorful personal details that make a subject feel more vivid and less purely factual.",
+        "evidence": "\"He was an excellent student as well as an excellent saxophone player, and once considered being a professional musician.\" [3]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author often grounds a post in personal context or named relationships, making the material feel socially and emotionally immediate.",
+        "evidence": "First off, a fight with Kiera. I did not need this, nothing would of happened if it wasn't for Embry [2]"
+      },
+      {
+        "claim": "The author uses concrete situational details to make scenes feel physically present.",
+        "evidence": "foggy, rainy, slick, you know"
+      },
+      {
+        "claim": "The author often develops incidents through mini-scenes of action rather than abstract summary.",
+        "evidence": "Well, since I know all the back roads and stuff back here, we found him fairly quickly, his car 200 feet out in the field, stuck between 2 trees"
+      },
+      {
+        "claim": "The author develops people through quoted speech, letting dialogue carry conflict or characterization.",
+        "evidence": "And she goes, well then you need to lose some weight then. [2]"
+      },
+      {
+        "claim": "The author shows emotional involvement through immediate bodily or affective reactions.",
+        "evidence": "I felt so bad for him just laying there, shaking."
+      },
+      {
+        "claim": "The author often extends a main event into its aftermath, showing consequences beyond the central scene.",
+        "evidence": "Finally the ambulance showed up and we left. Then I got a huge lecture from my parents in the car."
+      },
+      {
+        "claim": "The author sometimes deepens present conflict by linking it to an ongoing personal issue.",
+        "evidence": "Well since I already have eating issues anyways [2]"
+      },
+      {
+        "claim": "The author sometimes develops a subject through r\u00e9sum\u00e9-style milestones presented in rapid succession.",
+        "evidence": "\"Clinton graduated from Georgetown University, and in 1968 won a Rhodes Scholarship to Oxford University. He then received his law degree in 1973 from Yale University\" [3]"
+      },
+      {
+        "claim": "The author gives substance through dense catalogs of concrete actions or accomplishments.",
+        "evidence": "\"the Clinton administration passes a Crime Bill that adds100,000 new community police officers to the streets, bans assault weapons, and the administration created a Violence Against Women Act\" [3]"
+      },
+      {
+        "claim": "The author sometimes processes events through counterfactual reasoning, imagining how things might have gone differently.",
+        "evidence": "if I didn't go with Em she could of just gone with Chris and it would then both of them could of had a wreck."
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author uses an unfiltered spoken voice that feels conversational and immediate.",
+        "evidence": "wow, what a weekend!"
+      },
+      {
+        "claim": "The author favors long, loosely connected sentences that create a breathless rhythm.",
+        "evidence": "I was lying in bed and I was thinking about today and the things that happened and I just had to get this out, if not I'm going to go insane. [2]"
+      },
+      {
+        "claim": "The author uses interjections and excited exclamations that give the voice a youthful, diary-like energy.",
+        "evidence": "\"Woo look what I found!\" [3]"
+      },
+      {
+        "claim": "The author sometimes addresses the reader directly through rhetorical questions.",
+        "evidence": "\"What comes to mind when you hear the name Bill Clinton?\" [3]"
+      },
+      {
+        "claim": "The author relies on filler phrases and asides to preserve the sound of spontaneous speech.",
+        "evidence": "you know the one with head on traffic"
+      },
+      {
+        "claim": "The author uses blunt intensifiers to keep the voice raw and emotionally charged.",
+        "evidence": "I mean seriously people use some freaking common sense."
+      },
+      {
+        "claim": "The author uses all-caps emphasis to mark emotional spikes visually.",
+        "evidence": "I HATE her so much. [2]"
+      },
+      {
+        "claim": "The author often swings abruptly between sympathy, anger, and self-defense.",
+        "evidence": "I felt so bad for him just laying there, shaking... Ok, yeah well number 1, he didn't have to follow us period"
+      },
+      {
+        "claim": "The author uses sarcastic afterthoughts to sharpen resentment.",
+        "evidence": "Now, Kiera and Embry are fighting which puts me in the middle, great. Just what I wanted [2]"
+      },
+      {
+        "claim": "The author leans on repetitive connectors like \"then,\" \"also,\" and \"plus,\" creating an additive rhythm.",
+        "evidence": "\"Then in 1995... After re-election in 1996... Plus, the Safe Drinking Water Act is created... In 1997... Also in 1997... Then in 1998... Also, President Clinton...\" [3]"
+      }
+    ]
+  },
+  "1414354": {
+    "plot": [
+      {
+        "claim": "The author often opens by stating the issue immediately through a concrete claim or problem rather than easing in gradually.",
+        "evidence": "\"As anyone who drives can tell you by the thinning of their wallet, the high oil prices of late are still hitting hard.\" [3]"
+      },
+      {
+        "claim": "The author sometimes opens with precise factual context and then pivots quickly into a personal thesis.",
+        "evidence": "\"In fiscal year 2004 (covering the period from October 1, 2003 to September 30, 2004), the U.S. government spent $454 billion on national defense, an amount equivalent to 19.6% of total U.S. government outlays or 4.0% of U.S. gross domestic product. ... Maybe I'm pinching pennies, but I don\u2019t believe that this level of spending can be justified\" [5]"
+      },
+      {
+        "claim": "The author often organizes an argument by naming explanatory categories or functions before developing the point.",
+        "evidence": "\"The U.S. military serves two main functions: as a defense against foreign attack on the United States and its possessions, and as a foreign policy tool can be invoked, if necessary, to further U.S. interests.\" [5]"
+      },
+      {
+        "claim": "The author frequently uses live questions to stage the next turn of reasoning or to test a claim.",
+        "evidence": "\"What are the public safety benefits provided by the military, and are they worth the costs?\" [5]"
+      },
+      {
+        "claim": "The author uses visible transitional signposts and self-narration to mark pivots and returns in the argument.",
+        "evidence": "\"On a side note, if you are ever looking for a laugh, go to OPEC\u2019s website... Back to OPEC\u2026\" [3]"
+      },
+      {
+        "claim": "The author sometimes frames a post as a continuation of an earlier discussion or an ongoing line of thought.",
+        "evidence": "\"as discussed in urlLink this previous post\" [4]"
+      },
+      {
+        "claim": "The author sometimes structures a post as a personal change-of-mind sequence, moving from initial agreement to later concern.",
+        "evidence": "\"In the interests of doing the job right, as discussed in urlLink this previous post , I support that decision. But then I considered urlLink where the troops were coming from: South Korea .\" [4]"
+      },
+      {
+        "claim": "The author often advances from describing a problem or benefit to asking whether the institution in question can actually deliver the desired result.",
+        "evidence": "\"Thus, the benefits of improved public safety can be very large indeed. The real question is whether a strong military can provide those benefits.\" [5]"
+      },
+      {
+        "claim": "The author sometimes builds structure by anticipating an objection or directly addressing the reader\u2019s likely response.",
+        "evidence": "\"I'm sure that you will respond that this is giving yet another free slice of the pie to undeserving countries--I can hear it now.\""
+      },
+      {
+        "claim": "The author sometimes closes by widening the immediate issue into an accumulating list of consequences or actions.",
+        "evidence": "\"And the Americans have just announced plans to extract 4,000 of the 37,000 troops from the country, with additional plans to remove more troops, withdraw the 4-star general, and abandon posts in the capital...\" [4]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author injects humor into serious policy discussion by puncturing formal analysis with sarcasm or mockery.",
+        "evidence": "\"if you are ever looking for a laugh, go to OPEC\u2019s website\" [3]"
+      },
+      {
+        "claim": "The author blends policy argument with dramatized conversation or an imagined interlocutor.",
+        "evidence": "\"I'm sure that you will respond that this is giving yet another free slice of the pie to undeserving countries--I can hear it now.\""
+      },
+      {
+        "claim": "The author often makes abstract systems or threats vivid through colloquial metaphor or personification.",
+        "evidence": "\"Meanwhile, the North Korean tiger lurks just above the DMZ, posing just as much a threat as ever.\" [4]"
+      },
+      {
+        "claim": "The author refreshes abstract critique by importing unexpected cultural and artistic analogies.",
+        "evidence": "\"Like frames in a Warhol silkscreen, we look with similar aesthetic contentment on endless takes of the same constructed reality\" [2]"
+      },
+      {
+        "claim": "The author sometimes invents comic or exaggerated examples to expose shaky standards of credibility or authority.",
+        "evidence": "\"The difference between cnn.com, yahoo.com, and I-made-this-up-and-you-believe-it.com seems to be merely a function of repetition and belief in credibility.\" [2]"
+      },
+      {
+        "claim": "The author uses theatrical rhetorical questions to make neglect or absence feel immediate and dramatic.",
+        "evidence": "\"Where, oh where, is Chechnya in my nightly digest?\" [2]"
+      },
+      {
+        "claim": "The author sometimes reframes institutions in functional, cost-benefit terms instead of relying on moral or partisan framing.",
+        "evidence": "\"Thus, the two benefits of the U.S. military are guaranteeing public safety and furthering U.S. interests abroad.\" [5]"
+      },
+      {
+        "claim": "The author makes counterintuitive conceptual moves by separating a valuable goal from the usefulness of the institution meant to achieve it.",
+        "evidence": "\"Thus, the benefits of improved public safety can be very large indeed. The real question is whether a strong military can provide those benefits.\" [5]"
+      },
+      {
+        "claim": "The author favors surprising tonal pivots, moving quickly from formal analysis into playful or ironic commentary.",
+        "evidence": "\"Ah well, at least in America oil will be cheaper thanks to the Saudis, and in an election year too, how nice of them!\" [3]"
+      },
+      {
+        "claim": "The author blends policy commentary with candid self-deprecation, using personal inexperience or modesty as part of the voice.",
+        "evidence": "\"Now, I'm not yet an expert on Southeast Asian politics--I've only been here three weeks--but that doesn't seem like the best idea to me.\" [4]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops arguments by pairing strong judgment with explicit acknowledgment of uncertainty or limits.",
+        "evidence": "\"Unfortunately, the military\u2019s foreign policy benefits are even harder to quantify than its public safety benefits.\" [5]"
+      },
+      {
+        "claim": "The author grounds broad claims in concrete mechanisms, named examples, or numerical detail rather than leaving criticism abstract.",
+        "evidence": "\"the U.S. government spent $454 billion on national defense, an amount equivalent to 19.6% of total U.S. government outlays or 4.0% of U.S. gross domestic product.\" [5]"
+      },
+      {
+        "claim": "The author often deepens an argument by rejecting an obvious explanation in favor of a more structural one.",
+        "evidence": "\"Despite the obvious conclusion that prices are up because of war in Iraq and the recent terrorist attack in Saudi Arabia, a simpler explanation is that prices are up because worldwide demand is up.\" [3]"
+      },
+      {
+        "claim": "The author elaborates ideas through scenario testing, asking whether a proposed mechanism will actually work in practice.",
+        "evidence": "\"The question then becomes, is this sustainable? OPEC nations are known for over producing, so it is unknown whether the quota increase will actually increase oil supplies, or just legitimize what is being produced.\" [3]"
+      },
+      {
+        "claim": "The author often expands an argument through chains of analogy rather than only through linear explanation.",
+        "evidence": "\"Like frames in a Warhol silkscreen... Like Israel Goldkiss' father in The Million Dollar Hotel... Like the self-righteous author who writes to see words on a page\" [2]"
+      },
+      {
+        "claim": "The author scales discussion outward from everyday experience or individual cases to large institutional or global systems.",
+        "evidence": "\"As anyone who drives can tell you by the thinning of their wallet\" ... \"a simpler explanation is that prices are up because worldwide demand is up.\" [3]"
+      },
+      {
+        "claim": "The author deepens analysis by distinguishing among parts or actors within a larger system rather than treating the whole as monolithic.",
+        "evidence": "\"However, intelligence gathering, which makes up about 10% of all military expenditures ( urlLink Source ), is only one of many functions of the U.S. military. The other 90% of the military is much better suited to defend and attack foreign armies.\" [5]"
+      },
+      {
+        "claim": "The author is willing to embed substantial secondary-source material or outside data to extend the argument with another framework or source base.",
+        "evidence": "\"Graphomania [an obsession with writing] takes on the proportions of a mass epidemic whenever a society develops to the point where it can provide three basic conditions: a high enough degree of general well-being to enable people to devote their energies to useless activities; an advanced state of social atomization and the resultant general feeling of the isolation of the individual; a radical absence of significant social change in the internal development of the nation.\" [2]"
+      },
+      {
+        "claim": "The author sometimes develops causality as a feedback loop, showing how conditions and behaviors reinforce one another.",
+        "evidence": "\"...the effect transmits a kind of flashback to the cause. If general isolation causes graphomania, mass graphomania itself reinforces and aggravates the feeling of general isolation.\" [2]"
+      },
+      {
+        "claim": "The author develops stakes through concrete geopolitical and military specifics rather than abstract strategic concern.",
+        "evidence": "\"Obviously, the military has been crucial to recent American policy in Iraq, Afghanistan, and Haiti. It is also an important negotiating tool with countries such as China and North Korea.\" [5]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author writes in an overtly personal, conversational argumentative voice, presenting analysis as spoken judgment.",
+        "evidence": "\"let\u2019s see if I remember my economics courses\" [3]"
+      },
+      {
+        "claim": "The author mixes elevated or technical vocabulary with blunt, colloquial phrasing.",
+        "evidence": "\"Maybe I'm pinching pennies, but I don\u2019t believe that this level of spending can be justified\" [5]"
+      },
+      {
+        "claim": "The author frequently uses rhetorical questions to press a point and propel the argument forward.",
+        "evidence": "\"So what\u2019s going to happen?\" [3]"
+      },
+      {
+        "claim": "The author often writes with interruptions, insertions, and dash-linked asides that make the prose feel like thinking aloud.",
+        "evidence": "\"Now, I'm not yet an expert on Southeast Asian politics--I've only been here three weeks--but that doesn't seem like the best idea to me.\" [4]"
+      },
+      {
+        "claim": "The author favors emphatic evaluative diction over neutral description.",
+        "evidence": "\"can be laughably ineffective\""
+      },
+      {
+        "claim": "The author uses direct address or broad collective pronouns to keep the prose socially engaged rather than impersonal.",
+        "evidence": "\"We are a globe obsessed with 'being told' but wholly disinterested in 'finding out.'\" [2]"
+      },
+      {
+        "claim": "The author uses quotation marks rhetorically to destabilize key terms and signal skepticism about supposedly settled concepts.",
+        "evidence": "\"what 'the Truth' is\" [2]"
+      },
+      {
+        "claim": "The author builds momentum through long, information-packed sentences full of clauses and qualifications.",
+        "evidence": "\"In fiscal year 2004 (covering the period from October 1, 2003 to September 30, 2004), the U.S. government spent $454 billion on national defense, an amount equivalent to 19.6% of total U.S. government outlays or 4.0% of U.S. gross domestic product.\" [5]"
+      },
+      {
+        "claim": "The author uses vivid figurative imagery to turn abstraction into something physical and visible.",
+        "evidence": "\"everyone surrounds himself with his own writings as with a wall of mirrors cutting off all voices from without.\" [2]"
+      },
+      {
+        "claim": "The author\u2019s tone often carries visible sarcasm when commenting on political motives or official explanations.",
+        "evidence": "\"Ah well, at least in America oil will be cheaper thanks to the Saudis, and in an election year too, how nice of them!\" [3]"
+      }
+    ]
+  },
+  "3967054": {
+    "plot": [
+      {
+        "claim": "The author often opens with a blunt, compressed declaration of feeling or judgment before moving quickly into anecdotal narration.",
+        "evidence": "\"I watched Lost In Translation in complete darkess last night. I hated the movie - but loved being in such darkness. Darkness really calmed my boredom, and depressed mood.\" [2]"
+      },
+      {
+        "claim": "The author structures posts as diary-like sequences of lived moments rather than as a single sustained argument.",
+        "evidence": "\"I went to see The Notebook with Brittany.\" / \"Okay - we walked over to Nordstrom Cafe and I had a Blue Cheese and Pear Garden Salad.\" / \"My grandparents went on a date to see The Village today\""
+      },
+      {
+        "claim": "The author develops posts through associative digressions, moving across media, family, errands, and mood without insisting on tight thematic unity.",
+        "evidence": "\"When Big Brother ended at 237 am, I was kinda bored. I didn't want to go to sleep, and no one was online. So I spent a half hour writing 2 haikus. Here's what came of that:\" [2]"
+      },
+      {
+        "claim": "The author relies on conversational pivot phrases and spoken-style markers instead of formal transitions.",
+        "evidence": "\"Okay -\" / \"Oh, and\" / \"Well, at least\" / \"1, 2, 3!\""
+      },
+      {
+        "claim": "The author uses abrupt emotional pivots, letting the structure follow feeling in real time.",
+        "evidence": "\"Oh, and it turns out that Dan's sister and mother found out about his wiccan-ness. Ugh and they got into a fight.\""
+      },
+      {
+        "claim": "The author often expands outward from a private mood into a broader slice-of-life account involving other people and events.",
+        "evidence": "\"I went with my Grandma, and Mom to see my greatgrandma. She is home now - they opted not to do the surgery, but to let her pass it naturally.\" [2]"
+      },
+      {
+        "claim": "The author tends to close in the middle of ongoing action rather than with a neat takeaway, preserving an unfinished diary-entry feel.",
+        "evidence": "\"The drive back was hell ! We hit the big storm on the cross bronx; it was pouring and hailing with thunder and lightning. Once it died down, we...\" [2]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author turns emotional reflection into irreverent, memorable one-liners rather than conventional lessons.",
+        "evidence": "\"Life is a bitch. Just so happens that some bitches.... are nice.\""
+      },
+      {
+        "claim": "The author mixes sincere feeling with comic exaggeration, making even upbeat moments sound performative and playful.",
+        "evidence": "\"Yumalicious like whoa!\""
+      },
+      {
+        "claim": "The author uses exaggerated self-labeling to create comic self-caricature within the narration.",
+        "evidence": "\"So me, being the Big Brother whore that I am, stayed up to watch it.\" [2]"
+      },
+      {
+        "claim": "The author can shift genres mid-post, inserting original poetry into otherwise conversational diary prose.",
+        "evidence": "\"So I spent a half hour writing 2 haikus. Here's what came of that:\" [2]"
+      },
+      {
+        "claim": "The author juxtaposes tenderness with gross-out or irreverent humor in family material.",
+        "evidence": "\"My grandparents went on a date to see The Village today\" / \"Okay, eww I hope they didn't suck face in public. That would be an eww moment.\""
+      },
+      {
+        "claim": "The author creates flashes of heightened, imaginative imagery inside otherwise ordinary personal narration.",
+        "evidence": "\"The green trees raised their arms up to praise the heavens\""
+      },
+      {
+        "claim": "The author makes everyday people into comic or vivid figures through exaggerated labeling and punchline-like description.",
+        "evidence": "\"She is married with monstrous kids.\""
+      },
+      {
+        "claim": "The author pairs emotional calm with surrounding negativity in a way that makes mood feel oddly and distinctively layered.",
+        "evidence": "\"I hated the movie - but loved being in such darkness. Darkness really calmed my boredom, and depressed mood.\" [2]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops feeling through concrete episodes and specific activities rather than abstract explanation.",
+        "evidence": "\"This afternoon was great! I went to see The Notebook with Brittany.\""
+      },
+      {
+        "claim": "The author grounds scenes in precise situational details such as times, places, and small actions.",
+        "evidence": "\"Because of the Yankeee game, Big Brother 5 was delayed until 1:37 am.\" [2]"
+      },
+      {
+        "claim": "The author deepens reactions by elaborating with vivid, specific judgments instead of leaving them at a simple like/dislike.",
+        "evidence": "\"The direction was good, but the acting was bland, the plot was slow to unfold, and the screenplay had no purpose.\" [2]"
+      },
+      {
+        "claim": "The author builds posts through successive emotional shifts, so the entry reads like a moving record of changing mood.",
+        "evidence": "\"When Big Brother ended at 237 am, I was kinda bored. I didn't want to go to sleep, and no one was online.\" [2]"
+      },
+      {
+        "claim": "The author develops scenes by observing other people's behavior in concrete, memorable detail.",
+        "evidence": "\"She would gasp, put her hands to her mouth, and beg me to tell her how it ended because sitting through the drama was painful for her.\""
+      },
+      {
+        "claim": "The author often populates posts with family and friends, making personal reflection feel socially embedded.",
+        "evidence": "\"I went with my Grandma, and Mom to see my greatgrandma.\" [2]"
+      },
+      {
+        "claim": "The author uses sensory and environmental description to make setting carry emotional force.",
+        "evidence": "\"Today's weather was so beautiful, the clouds were perched high in the blue sky. The green trees raised their arms up to praise the heavens, and the birds were flying above beautiful Freehold.\""
+      },
+      {
+        "claim": "The author can reveal mood indirectly through inserted artifacts such as poems written within the narrated moment.",
+        "evidence": "\"rose petals look up to the white sun. you and i, this gray thunderstorm.\" [2]"
+      },
+      {
+        "claim": "The author makes side anecdotes memorable by stacking quirky, precise details that imply character.",
+        "evidence": "\"This is like the weirdest thing she has done since she planted plastic flowers in her garden, and stayed up all night to make sure no one stole them. Not even joking.\""
+      },
+      {
+        "claim": "The author adds emotional complexity by placing affection, amusement, worry, and irritation close together within the same post.",
+        "evidence": "\"Iris was there - and I felt so bad, because she was laughing so hard. And I was kinda worried for her. But she seemed to enjoy herself.\" [2]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author uses an intensely colloquial, unfiltered voice that sounds close to spontaneous speech.",
+        "evidence": "\"I was sad, and now I'm uber happy.\""
+      },
+      {
+        "claim": "The author delivers judgments bluntly and with little hedging.",
+        "evidence": "\"The movie was horrible though.\" [2]"
+      },
+      {
+        "claim": "The author heightens emotion with profanity and vulgar phrasing.",
+        "evidence": "\"What the fuck people!?\""
+      },
+      {
+        "claim": "The author favors short exclamatory bursts that create breathless immediacy.",
+        "evidence": "\"Life is so great sometimes. This afternoon was great!\""
+      },
+      {
+        "claim": "The author uses slang and playful intensifiers to make evaluation feel personality-driven.",
+        "evidence": "\"Yumalicious like whoa!\""
+      },
+      {
+        "claim": "The author uses typography and punctuation expressively as part of the voice.",
+        "evidence": "\"THE word, amen!\" / \"... '\" / \":'(\" / \":-[\""
+      },
+      {
+        "claim": "The author shifts sharply between casual speech and lyrical imagery.",
+        "evidence": "\"the clouds were perched high in the blue sky\" / \"Okay - we walked over to Nordstrom Cafe\""
+      },
+      {
+        "claim": "The author often builds sentences paratactically with chained clauses and conjunctions, producing a fast diary-like flow.",
+        "evidence": "\"The direction was good, but the acting was bland, the plot was slow to unfold, and the screenplay had no purpose.\" [2]"
+      },
+      {
+        "claim": "The author uses spoken fillers and self-aware asides to preserve live-recounting rhythm.",
+        "evidence": "\"Now all I gotta do is actually finish watching it next time it comes on tv.\" [2]"
+      },
+      {
+        "claim": "The author incorporates culturally specific family wording into the narration.",
+        "evidence": "\"before we went to abuela's apartment\" [2]"
+      }
+    ]
+  },
+  "2627097": {
+    "plot": [
+      {
+        "claim": "The author often opens with a blunt, conversational reaction that frames the post as immediate personal response rather than formal reflection.",
+        "evidence": "\"We got the virus again. I'm getting a little irritated with this.\" [5]"
+      },
+      {
+        "claim": "She commonly begins from a current event or ongoing problem and uses it as an entry point into personal reflection or complaint.",
+        "evidence": "There's an interesting chat going on over at urlLink Sons of Mosiah about the world being more wicked now that ever before. [3]"
+      },
+      {
+        "claim": "The author explicitly signals rambling or ranting, making the structure feel improvised and conversational rather than tightly planned.",
+        "evidence": "\"Now that I'm done ranting and raising my blood pressure,...\" [5]"
+      },
+      {
+        "claim": "She often develops posts by moving through associative side topics rather than following a strict linear or single-topic structure.",
+        "evidence": "\"The Sisters want to come over today and watch a video - I can't remember the name of it. (I'm batting 1000 today, must be the fibro fog, or early Alzheimer's, I'm not sure which.) At least the living room is presentable and I vacuumed the entry way too.\" [5]"
+      },
+      {
+        "claim": "The author uses informal spoken pivots instead of polished transitions to move between topics or emotional beats.",
+        "evidence": "Ewwww. On to happier subjects! [2]"
+      },
+      {
+        "claim": "She sometimes highlights a detail as setup for later payoff, giving the post a story-like sense of relevance.",
+        "evidence": "The youngest brother, Jacob, was the same age as my baby sister, Mel - this is important, remember it. [2]"
+      },
+      {
+        "claim": "She compresses large stretches of time and change into quick summary bursts to keep personal material moving.",
+        "evidence": "Well, the restaurant closed as we all know all good things come to an end. I didn't see Sam any more, Jacob and Mel Mel lost touch, but grandma and Lorraine stayed in touch. [2]"
+      },
+      {
+        "claim": "She often structures posts as a sequence of personal cases or mini-narratives rather than as abstract argument.",
+        "evidence": "\"I was carrying in 3 logs when my sweater got hooked on the garage screen door, I dropped the top log when the sweater yanked me back, the log barely missing my left foot...\" [5]"
+      },
+      {
+        "claim": "The author uses rhetorical self-checks to pivot between episodes, creating a spoken-storytelling rhythm.",
+        "evidence": "\"That should have been the end of it, right?\" [5]"
+      },
+      {
+        "claim": "She often closes by widening into another concern or broader feeling rather than neatly resolving the opening topic.",
+        "evidence": "\"I just think we're beginning to see the end of the 'family' as wel know it and that makes me sad.\" [4]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author frequently undercuts serious or emotional material with humor, creating an irreverent tone.",
+        "evidence": "I know, I know, but I always read the obituaries first. I'm hoping my ex will be in there, but I'm always disappointed. [2]"
+      },
+      {
+        "claim": "She turns autobiography into character performance by using provocative or theatrical labels for people in her life.",
+        "evidence": "my dad and the egg donor (formerly known as mom) owned a restaurant [2]"
+      },
+      {
+        "claim": "The author blends confessional or opinionated material with stage-like direct address, making posts read like spoken performance.",
+        "evidence": "Long story, pull up a chair. [2]"
+      },
+      {
+        "claim": "She uses playful faux-formality and joking asides to make casual narration feel performative.",
+        "evidence": "Jacob (names have been changed to protect the innocent) has passed away. [2]"
+      },
+      {
+        "claim": "The author often mixes multiple kinds of material in a single post, creating a collage of reflection, anecdote, and everyday updates.",
+        "evidence": "A real estate guy is coming over Sunday to give us a ballpark figure on what to ask for the house... Mel got her engagement ring from Dan tonight... We watched  urlLink Dead Like Me  tonight. [2]"
+      },
+      {
+        "claim": "She uses vivid physical detail for comic or shocking effect.",
+        "evidence": "I found a dead mouse behind the water heater. [2]"
+      },
+      {
+        "claim": "The author sometimes makes a public issue feel distinctive by recasting it as a concrete social scenario with invented names and occasions.",
+        "evidence": "\"I don't want to receive invitations to Bill and Tom's wedding, or Sue and Ethel's engagement party.\" [4]"
+      },
+      {
+        "claim": "She sometimes frames abstract conflict through bodily revulsion, giving opinion writing a visceral angle.",
+        "evidence": "\"the thought of seeing two people of the same sex kissing at the end of the ceremony makes me rather sick to my stomach.\" [4]"
+      },
+      {
+        "claim": "The author uses direct self-contradiction as a mode of honesty, making unresolved tension part of the post's interest.",
+        "evidence": "\"I don't think I'm homophobic, but\" [4]"
+      },
+      {
+        "claim": "She sometimes personifies problems and imagines antagonists in moral or dramatic terms, turning irritation into story-like conflict.",
+        "evidence": "\"On one hand I'd like to wring the neck of whoever started it, but on the other hand you have to admire them for their ability - if they would only use it for good and not evil... *sigh*\" [5]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops ideas through specific personal experience rather than generalized commentary.",
+        "evidence": "I have this dream, I swear, at least once a week. [2]"
+      },
+      {
+        "claim": "She often grounds emotion or argument in a concrete social world of recurring places, neighborhoods, and relationships.",
+        "evidence": "It wasn't a big fancy franchise kind of restaurant, just the little corner diner where everyone knows everyone else. [2]"
+      },
+      {
+        "claim": "The author fills posts with a dense cast of relatives, friends, and acquaintances, giving the writing a lived-in community feel.",
+        "evidence": "She had three sons, Sam, Tom, and Jacob. [2]"
+      },
+      {
+        "claim": "She builds scenes with concrete domestic or local detail instead of staying at the level of abstract feeling.",
+        "evidence": "\"There was a pile of dirt in the entry from the other day, when I had a little mishap.\" [5]"
+      },
+      {
+        "claim": "The author expands present incidents by tying them to prior episodes, giving posts a sense of continuity across time.",
+        "evidence": "I hadn't seen any evidence of mice since the fiasco last year when Steve put a box of corn in the garage - and the forgot about it! [2]"
+      },
+      {
+        "claim": "She develops characters through compact evaluative sketches that mix description with personal judgment.",
+        "evidence": "she was a great waitress, very quiet and subdued, but I liked her. [2]"
+      },
+      {
+        "claim": "The author uses small remembered behaviors to convey attachment and deepen emotional stakes.",
+        "evidence": "Every time Lorraine would talk to grandma on the phone Jacob would want to talk to 'Mel Mel' as he called my sister. [2]"
+      },
+      {
+        "claim": "She often moves through multiple emotional beats within one post, letting tone shift rapidly as the entry unfolds.",
+        "evidence": "Ewwww. On to happier subjects! Mel got her engagement ring from Dan tonight... She's happy - and I'm happy for her. I'm gonna cry (sob!) [2]"
+      },
+      {
+        "claim": "The author sometimes interprets earlier life from a present vantage point, adding retrospective feeling to anecdote.",
+        "evidence": "it was the best time of my life, in retrospect. [2]"
+      },
+      {
+        "claim": "She lingers on small physical or mechanical steps within anecdotes, stretching simple incidents into dramatized scenes.",
+        "evidence": "\"I finally had to put the other 2 logs down also, take the sweater off to unhook it, and then take the logs downstairs.\" [5]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author writes in a blunt, colloquial voice that sounds spoken rather than polished.",
+        "evidence": "This week has totally sucked. [2]"
+      },
+      {
+        "claim": "She favors contractions, interjections, and direct audience nudges that create intimacy and immediacy.",
+        "evidence": "Like they're literally crumbling in my mouth... odd huh? Anyway, today I found this site to analyze dreams. [2]"
+      },
+      {
+        "claim": "The author regularly uses parenthetical or inserted commentary to react to her own narration in real time.",
+        "evidence": "\"(I'm batting 1000 today, must be the fibro fog, or early Alzheimer's, I'm not sure which.)\" [5]"
+      },
+      {
+        "claim": "She frequently uses fragments and clipped bursts to mimic spontaneous thought and speech.",
+        "evidence": "Ewwww. On to happier subjects! [2]"
+      },
+      {
+        "claim": "The author relies on informal spoken transition markers instead of formal connective prose.",
+        "evidence": "Anyway, I see that Jacob [2]"
+      },
+      {
+        "claim": "She uses hyperbolic expressions to make reactions feel dramatic and embodied.",
+        "evidence": "I about fell out of the chair. [2]"
+      },
+      {
+        "claim": "The author punctuates narration with direct address and imperative phrasing, treating the reader like a listener.",
+        "evidence": "this is important, remember it. [2]"
+      },
+      {
+        "claim": "She mixes slangy or casual phrasing with emotionally vulnerable or strongly opinionated material.",
+        "evidence": "Of course at the time I thought she was a little bit loco [3]"
+      },
+      {
+        "claim": "The author uses emphatic punctuation and typographic play to project personality onto the page.",
+        "evidence": "Contragulations you guys! (I don't even think she got to the strawberries and whipped cream or the hootchie pajamas!) [2]"
+      },
+      {
+        "claim": "She uses rhetorical questions to stage indignation or internal debate directly on the page.",
+        "evidence": "\"Pretend it doesn't affect you?\" [4]"
+      }
+    ]
+  },
+  "3970345": {
+    "plot": [
+      {
+        "claim": "The author often opens by assuming an ongoing relationship with the reader, making the post feel like a continuation of a conversation.",
+        "evidence": "\"So you\u2019ve been here for a little while right?\" [5]"
+      },
+      {
+        "claim": "The author frequently begins with a familiar setup and then pivots quickly into a more personal or contrarian line of thought.",
+        "evidence": "\"All these new places, new ideas; the freedom of the internet. Well let me burst that little bubble of your and tell you that the internet is not all it\u2019s cracked up to be.\" [5]"
+      },
+      {
+        "claim": "The author commonly structures posts as narrated sequences of thought or examples rather than calm, linear exposition.",
+        "evidence": "\"It starts out like this. I have a single line of static text... I make a tag fro it in an XML file... I run a script... I have a properties file... Then I create a tag in the JSP... That was static text.. in 3 files.\""
+      },
+      {
+        "claim": "The author uses rhetorical questions to move the piece forward and keep the argument in an interrogative flow.",
+        "evidence": "\"What could be the reasoning behind that? Is it because I\u2019m a good looking guy? It couldn\u2019t be, think of all the good looking assholes who you know and dislike. Is it because I\u2019m an extremely kind person?\" [3]"
+      },
+      {
+        "claim": "The author often states a blunt judgment early and lets the rest of the post act as justification or elaboration.",
+        "evidence": "\"After much talk I came to this conclusion: Paul is still a dumbass.\" [2]"
+      },
+      {
+        "claim": "The author develops posts by stacking cases or escalating examples instead of presenting an abstract thesis first.",
+        "evidence": "\"Case 2: my great aunt who never got married... Case 3: my brothers.\" [4]"
+      },
+      {
+        "claim": "The author inserts side remarks and mini-detours that interrupt the line of argument, creating a wandering spoken structure.",
+        "evidence": "\"Look At Micheal Moore. That\u2019s right, I said it. Anyway, so to wrap this little baby up\" [5]"
+      },
+      {
+        "claim": "The author uses abrupt summary lines after built-up detail to mark a turn or emphasize absurdity.",
+        "evidence": "\"That was static text.. in 3 files.\""
+      },
+      {
+        "claim": "The author often broadens a specific complaint into a larger judgment about a whole system or pattern.",
+        "evidence": "\"If I stepped into a project like this and was expected to upgrade it I would almost certainly tell them where to stick it. I would make the claim that it needed to be taken back to the beginning.\""
+      },
+      {
+        "claim": "The author tends to close with a blunt warning or takeaway rather than a neat resolution.",
+        "evidence": "\"Don\u2019t come here for respect. Come here for freedom, but don\u2019t come here for respect.\" [5]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author reimagines ordinary subjects as dramatized personal or social conflicts instead of treating them in a standard explanatory way.",
+        "evidence": "\"You read this blog and you judge me just a little bit right? I\u2019m even going to go out on a limb here and say that you don\u2019t even like me right?\" [3]"
+      },
+      {
+        "claim": "The author uses irreverent exaggeration to turn frustration or insecurity into comic absurdity.",
+        "evidence": "\"my client has found the perfect way to make even static text something that requires a rocket scientist.\""
+      },
+      {
+        "claim": "The author blends serious or specialized subject matter with insult, mockery, or self-roasting.",
+        "evidence": "\"After much talk I came to this conclusion: Paul is still a dumbass.\" [2]"
+      },
+      {
+        "claim": "The author creates humor by contrasting a small issue with an absurdly oversized process or frame.",
+        "evidence": "\"I have a single line of static text... That was static text.. in 3 files.\""
+      },
+      {
+        "claim": "The author uses mock-serious theorizing, presenting a shaky idea as if it were a case to investigate.",
+        "evidence": "\"This is a lame brained theory I know, but stay with me.\" [4]"
+      },
+      {
+        "claim": "The author uses exaggerated comparison and figurative phrasing to make frustration feel cartoonishly vivid.",
+        "evidence": "\"I run a script that makes my 1.6Ghz computer feel like it\u2019s a 286 and 15 minutes later.\""
+      },
+      {
+        "claim": "The author turns trouble into mock-epic drama by framing it as a mission or test of character.",
+        "evidence": "\"You might know that Paul and I stopped talking after he sent me in on a badly chosen mission. One which I could not possibly have completed, because I don\u2019t have the killer instinct.\" [2]"
+      },
+      {
+        "claim": "The author invents oddball idioms and anti-proverbs to give the post a homemade comic philosophy.",
+        "evidence": "\"All that stuff that counted while you were topside, it don\u2019t mean Jamaican jerk chicken here.\" [5]"
+      },
+      {
+        "claim": "The author injects provocative cultural references as punchy argumentative flourishes rather than carefully developed examples.",
+        "evidence": "\"Look At Micheal Moore. That\u2019s right, I said it.\" [5]"
+      },
+      {
+        "claim": "The author introduces praise only to undercut it, using comic deflation to keep sentiment from settling.",
+        "evidence": "\"my good friend who just happens to be a college professor now (yes you) happens to think that I write a damn good blog now and again. She even teaches philosophy. That\u2019s high praise, but unfortunately bias.\" [3]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops ideas through firsthand anecdote and personal experience rather than abstract exposition.",
+        "evidence": "\"I ran into some old friends from back in high school the other day. Not just high school, but early high school. They recognized me right away.\" [4]"
+      },
+      {
+        "claim": "The author relies on granular, step-by-step detail, using accumulation itself to demonstrate burden or absurdity.",
+        "evidence": "\"I make a tag fro it in an XML file, I add in a second array tag for the text that will come in under this \u201csub header\u201d. I run a script... I have a properties file. I fill in the fields for those properties... Then I create a tag in the JSP\""
+      },
+      {
+        "claim": "The author layers extra conditions and complications to show how a problem keeps expanding.",
+        "evidence": "\"Add in a value that needs to be decoded and your adding on at least one more file and another reference inside of your properties file to another properties file.\""
+      },
+      {
+        "claim": "The author builds scenes through quoted or imagined speech and reaction, making conflicts feel immediate.",
+        "evidence": "\"She looks on me with a friends eyes and says, \u201cit\u2019s good he\u2019s stretching out with these thoughts\u201d rather than \u201cWho the hell thinks these things and still considers themselves sane?\u201d\" [3]"
+      },
+      {
+        "claim": "The author develops posts through an emotional arc in which frustration, insecurity, or disappointment becomes part of the argument itself.",
+        "evidence": "\"I\u2019m not saying it\u2019s a bad thing really, it\u2019s even refreshing and novel for a time, but that\u2019s not going to last forever.\" [5]"
+      },
+      {
+        "claim": "The author broadens a private observation into a larger pattern by moving outward from self to relatives or comparable cases.",
+        "evidence": "\"My dad\u2019s side of the family has this thing for going through life unmarried... Case 2: my great aunt who never got married... Case 3: my brothers.\" [4]"
+      },
+      {
+        "claim": "The author gives complaints concrete stakes by naming immediate consequences such as wasted effort or failed work.",
+        "evidence": "\"It could be the fact that I wasted the day and realized that in the end I would have gotten more done if I had never come in. Why, because the files were corrupted by the compiler.\""
+      },
+      {
+        "claim": "The author develops conflicts through social relationships and triangulated dynamics rather than isolated description.",
+        "evidence": "\"This would include Hatter. Why, because I carried a sincere intent when I talked to her.\" [2]"
+      },
+      {
+        "claim": "The author includes self-implication or apology, adding complexity instead of presenting himself as wholly blameless.",
+        "evidence": "\"So I did apologize for that lack of communicating skill.\" [2]"
+      },
+      {
+        "claim": "The author repeatedly positions the reader or speaker inside imagined scenes of online judgment or attack.",
+        "evidence": "\"Don\u2019t post your picture for anybody but yourself because nobody ever looks good online.\" [5]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author writes in a raw, spoken first-person voice that feels improvised rather than polished.",
+        "evidence": "\"You might think that I\u2019m a new person here, but in truth I\u2019ve ghost written a couple of posts previous, but it\u2019s much easier to really free my words when I\u2019m wrapped in my own character.\" [4]"
+      },
+      {
+        "claim": "The author frequently uses direct address to the reader or subject, creating the feel of an in-person monologue or confrontation.",
+        "evidence": "\"You read this blog and you judge me just a little bit right?\" [3]"
+      },
+      {
+        "claim": "The author favors jagged syntax, fragments, and abrupt pivots that mimic real-time frustration or defensiveness.",
+        "evidence": "\"That\u2019s a good and a bad thing. It\u2019s good, because people reading this who do not know me, well what do they care right? I\u2019m just some guy with a blog.\" [3]"
+      },
+      {
+        "claim": "The author mixes reflective or technical language with profanity, insult, or slang, creating a hybrid register.",
+        "evidence": "\"think of all the good looking assholes who you know and dislike\" [3]"
+      },
+      {
+        "claim": "The author relies heavily on rhetorical questions to perform agitation, accusation, or self-undermining.",
+        "evidence": "\"Would you be friends with that guy? I look like an ass!\" [5]"
+      },
+      {
+        "claim": "The author punctuates thought with short exclamatory or standalone bursts that sharpen tonal swings.",
+        "evidence": "\"Oh that\u2019s precious.\" [2]"
+      },
+      {
+        "claim": "The author uses repetition to intensify emphasis and hammer home a point.",
+        "evidence": "\"Don\u2019t come here for respect. Come here for freedom, but don\u2019t come here for respect.\" [5]"
+      },
+      {
+        "claim": "The author leans on hyperbolic comparison to make annoyance or speculation sound larger than life.",
+        "evidence": "\"it\u2019s the hardest test you\u2019ve ever written since the stone tablet.\""
+      },
+      {
+        "claim": "The author uses parenthetical asides and side-comments to mimic live conversation and private nudges.",
+        "evidence": "\"my good friend who just happens to be a college professor now (yes you)\" [3]"
+      },
+      {
+        "claim": "The author uses slangy, idiomatic phrasing and internet-style shorthand to keep the voice personal and unfiltered.",
+        "evidence": "\"I\u2019m really kind of hoping that he doesn\u2019t. j/k\" [4]"
+      }
+    ]
+  },
+  "518116": {
+    "plot": [
+      {
+        "claim": "The author often opens with an immediate conversational burst rather than a polished framing introduction.",
+        "evidence": "\"Okay...so I haven't been the most dedicated blogger:) But, it is the holiday season...the time for madness and mayhem!\" [5]"
+      },
+      {
+        "claim": "The author signals disorder early, presenting the post as a ramble shaped by whatever feels most pressing.",
+        "evidence": "Anyway...alot going on...not sure where to start..."
+      },
+      {
+        "claim": "The author structures posts through abrupt pivots between topics instead of smooth transitions.",
+        "evidence": "one more thing to take up with the endo in a couple weeks... So, hubby and I had a knock out fight on Friday [2]"
+      },
+      {
+        "claim": "The author uses one immediate subject as a springboard into broader personal reflection rather than staying narrowly on the initial topic.",
+        "evidence": "\"I can never explain why...but from the moment I and all of my belongings hit that city, I knew that I had come home.\" [5]"
+      },
+      {
+        "claim": "The author develops posts through recursive self-questioning and qualification, letting thought unfold live on the page.",
+        "evidence": "Okay....but do I really think I am always right? Ummm...I don't know. [2]"
+      },
+      {
+        "claim": "The author sometimes breaks a post into labeled or loosely sectional update units rather than sustaining one continuous thread.",
+        "evidence": "House projects:"
+      },
+      {
+        "claim": "The author sometimes organizes the middle around an unresolved decision or active thinking process rather than a settled conclusion.",
+        "evidence": "So, right now, I need to decide if I think Bush did a good job...please, feel free to comment away. I'm very open minded. [4]"
+      },
+      {
+        "claim": "The author explicitly marks her own digressions, making rambling part of the post's structure.",
+        "evidence": "\"And, yet, I terribly digress...we were shopping, and shopping, and shopping...\" [5]"
+      },
+      {
+        "claim": "The author may explicitly label the post a ramble before ending with an emotional takeaway.",
+        "evidence": "SO, all that ramble to say...I hope that you find what you are looking for...I hope that you realize the beauty and potential that you posess. [3]"
+      },
+      {
+        "claim": "The author often closes without neat resolution, sometimes ending in mid-motion rather than summary.",
+        "evidence": "\"we ate breakfast and left....we HAD...\" [5]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author turns mundane frustrations or everyday errands into comic material through exaggerated, low-register phrasing.",
+        "evidence": "that computer I got...sucked major dookie"
+      },
+      {
+        "claim": "The author blends confessional vulnerability with comic self-exposure, openly mocking how she might appear to others.",
+        "evidence": "I'm hoping it is, otherwise, whoever is about to receive this will know I am psychotic... [3]"
+      },
+      {
+        "claim": "The author expands a nominal topic into a broader drama of relationships, identity, or responsibility.",
+        "evidence": "No person is going to complete you, you do that for yourself. [3]"
+      },
+      {
+        "claim": "The author uses exaggerated labels for herself or others to make conflict feel theatrically vivid.",
+        "evidence": "but, yes, we are all agreeing, mom=psycho. [2]"
+      },
+      {
+        "claim": "The author mixes serious subject matter with casual diary-like chatter, creating tonal whiplash.",
+        "evidence": "Besides the crap I was running from, my psycho-ex, my eating disorder, mom and dad, Heritage freaks, etc...that was one of the reasons I left dodge. [3]"
+      },
+      {
+        "claim": "The author makes posts feel improvised and intimate by turning them into direct, quasi-private address.",
+        "evidence": "Okay, girly...I hope you read this! I had the right email address, but it says your box is too full! [3]"
+      },
+      {
+        "claim": "The author sometimes frames relationship uncertainty in quasi-fated terms rather than strictly practical ones.",
+        "evidence": "So, if you and Tony are 'meant to be', I think you guys will come back together and be better for the time spent apart. [3]"
+      },
+      {
+        "claim": "The author blends media reaction with confessional memoir, turning response to a film into a personal reckoning.",
+        "evidence": "Now, I don't know if I have mentioned, but I have never voted. [4]"
+      },
+      {
+        "claim": "The author turns a city into an emotionally charged homecoming scene rather than describing it as just a destination.",
+        "evidence": "\"from the moment I and all of my belongings hit that city, I knew that I had come home.\" [5]"
+      },
+      {
+        "claim": "The author contrasts places through colorful social diagnosis rather than simple preference.",
+        "evidence": "\"But idle hands make idle minds and I think this is the disease of Kzoo life.\" [5]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops emotion through concrete lived incidents rather than abstract summary.",
+        "evidence": "trying to put your toddler back to sleep in a wet bed"
+      },
+      {
+        "claim": "The author uses detailed logistical specifics to show how ordinary stress accumulates.",
+        "evidence": "someone was selling tins...32 (12' each) for $105...cool! So I bought them and told the guy I would need enough for a 10x15 room. Umm...that comes to $600 something! And, it is closer to $700!!!"
+      },
+      {
+        "claim": "The author builds scenes through cause-and-effect escalation, showing how one interaction snowballs into a larger blowup.",
+        "evidence": "B was sent to bed and had all of his toys taken away...then hubby and I came down here to start screaming at each other [2]"
+      },
+      {
+        "claim": "The author uses autobiographical testimony as proof for the advice or interpretation she offers.",
+        "evidence": "Although I didn't have the grand plan to find myself and figure some crazy shit out, I knew I was not going to survive going the way I was going. [3]"
+      },
+      {
+        "claim": "The author includes interior uncertainty in real time instead of presenting a fully settled lesson.",
+        "evidence": "I don't know who to vote for. I pretty much steer clear of politics. [4]"
+      },
+      {
+        "claim": "The author adds complexity to conflict by including love, remorse, reconciliation, or sympathy alongside the blowup.",
+        "evidence": "He came back...we made up...everything's hunky-dorey...I feel really bad. [2]"
+      },
+      {
+        "claim": "The author sometimes deepens a present issue by comparing it to a longer personal history or pattern.",
+        "evidence": "I think I have come so far with the temper/swearing/name calling/threatening bs and then I just allow myself to go over the edge [2]"
+      },
+      {
+        "claim": "The author expands from personal anecdote to intergenerational interpretation, using family history to enlarge the point.",
+        "evidence": "Where was the time for her to find out what makes her happy? [3]"
+      },
+      {
+        "claim": "The author develops setting through social and sensory abundance rather than landmark description alone.",
+        "evidence": "\"It is a place filled with so many different people...all shapes, sizes, colors, styles...and no judging.\" [5]"
+      },
+      {
+        "claim": "The author often gives a post an emotional arc from distress or uncertainty toward affirmation, exhortation, or exchange.",
+        "evidence": "Diversity is to be embraced... sharing ideas is the only way to come up with one that might actually work... [4]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "Ellipses are a signature rhythmic device, creating fragmented, thinking-out-loud pacing.",
+        "evidence": "\"Okay...so I haven't been the most dedicated blogger:) But, it is the holiday season...the time for madness and mayhem!\" [5]"
+      },
+      {
+        "claim": "The author favors an informal, intensely spoken voice that sounds intimate and unedited.",
+        "evidence": "Don't get me wrong, I love my hubby, but does he ever get it that he is the adult and he allows a four year old to get his goat?"
+      },
+      {
+        "claim": "The author often writes in direct second-person address, making posts sound like urgent conversation.",
+        "evidence": "I hope that you find what you are looking for...I hope that you realize the beauty and potential that you posess. [3]"
+      },
+      {
+        "claim": "The author mixes slang, profanity, abbreviations, and intimate colloquialisms to keep the register raw and casual.",
+        "evidence": "\"but I have $$$ in my eyes\" [5]"
+      },
+      {
+        "claim": "The author uses emphatic capitalization and punctuation to perform emotion visually on the page.",
+        "evidence": "\"can I just say, I LOVE that store!!!\" [5]"
+      },
+      {
+        "claim": "The author relies on rhetorical questions to dramatize agitation or reflection.",
+        "evidence": "Do I want to vote to re-elect Bush? Do I want to vote to kick him out? [4]"
+      },
+      {
+        "claim": "The author frequently interrupts herself with parenthetical asides, preserving the feel of live thought.",
+        "evidence": "( I swear that looks wrong!) [3]"
+      },
+      {
+        "claim": "The author often uses sentence fragments and compressed clauses, producing a staccato pace that mirrors overwhelm or spontaneity.",
+        "evidence": "Thought provoking. Very glad I watched it [4]"
+      },
+      {
+        "claim": "The author's voice swings quickly between sarcasm, confession, complaint, tenderness, and encouragement without smoothing the tonal edges.",
+        "evidence": "Find what inspires you and grab on...choose to be happy, not tormented. [3]"
+      },
+      {
+        "claim": "The author uses repetitive phrasing to mimic momentum and saturation.",
+        "evidence": "\"we were shopping, and shopping, and shopping...\" [5]"
+      }
+    ]
+  },
+  "2872279": {
+    "plot": [
+      {
+        "claim": "The author often opens by foregrounding the act of writing or by immediately framing the post through a personal stance rather than a polished formal setup.",
+        "evidence": "I had tried to type this out a few days ago but it stalled and I was unable to finish it... So here is it again... (Please forgive me if there's anything that doesn't seem right... my memory's currently a bit rusty...) [2]"
+      },
+      {
+        "claim": "The author frequently structures posts as chronological accounts of lived experience, moving through events in the order they happened.",
+        "evidence": "On the second day, I had beaten a Methodist Boys' School player in the sixth match and a SMJK Jit Sin player in the fifth match but lost to a SMK Hamid Khan player..."
+      },
+      {
+        "claim": "The author often organizes narratives through linked episodes, letting one remembered detail or incident lead into the next rather than dividing the post into clear sections.",
+        "evidence": "Another few months later on December 31st, 2002. It was another memorable date for me, no it doesn't have anything to do with New Year's Eve, it was the date when me and my mum were walking back from Taman Free School, since we were passing by the fish shop, we decided to take a look at the fishes there. [4]"
+      },
+      {
+        "claim": "The author is comfortable making abrupt pivots between subtopics or phases, using informal transition phrases that keep the flow conversational.",
+        "evidence": "So anyway, we were standing under the shoddily erected shack, an 'ulck, ulck, ulck!' sound was coming from a cardboard box on the floor! [3]"
+      },
+      {
+        "claim": "The author often builds momentum around changing fortunes, moving from progress or anticipation into setback, loss, or disappointment.",
+        "evidence": "Sadly he didn't live to see the next morning. Losing a pet felt real painful and just like a little child, I cried hard that night. [4]"
+      },
+      {
+        "claim": "The author sometimes states a blunt overall verdict early and lets the rest of the post elaborate around that judgment.",
+        "evidence": "My summary of the trip would be this: Genting sucks, not too badly, but it still sucks. [3]"
+      },
+      {
+        "claim": "The author sometimes announces that a topic will be covered in parts, framing posts as installments rather than self-contained summaries.",
+        "evidence": "And that's why this blog will have a detailed report on my trip to Genting Highlands in many parts. [3]"
+      },
+      {
+        "claim": "The author tends to close loosely, ending on uncertainty or an unresolved thought instead of a neat conclusion.",
+        "evidence": "He aslo asked me about some of the author's books that I read, but I don't remember asking him about his choice... or was... [2]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author often blends serious or practical subject matter with playful humor instead of maintaining a single formal register.",
+        "evidence": "I tried bending the rules and brought a tiny thesaurus instead... hehe... [2]"
+      },
+      {
+        "claim": "The author uses internet-style emotive markers and exclamations to give posts a playful, digitally inflected personality.",
+        "evidence": "W00t!"
+      },
+      {
+        "claim": "The author makes ordinary scenes memorable by centering eccentric sensory or material details.",
+        "evidence": "The most noticably was the smell of his cologne... He had that same cologne for the whole year... [2]"
+      },
+      {
+        "claim": "The author heightens moments by quoting speech or sounds directly, making scenes feel theatrical and overheard.",
+        "evidence": "an 'ulck, ulck, ulck!' sound was coming from a cardboard box on the floor! [3]"
+      },
+      {
+        "claim": "The author sometimes creates surprise by rejecting expected celebratory framing and offering a comically harsh alternative.",
+        "evidence": "My summary of the trip would be this: Genting sucks, not too badly, but it still sucks. [3]"
+      },
+      {
+        "claim": "The author can frame a post through pop-cultural material outside the main narrative, using it as mood-setting texture.",
+        "evidence": "Getaway Car by Hall & Oates --------------------------------- Remembering when we first met We had that adventure in our eyes [3]"
+      },
+      {
+        "claim": "The author often turns practical or mundane objects into part of a slightly self-dramatized personal persona.",
+        "evidence": "me holding a plastic bag containing 3 books planned to release there, the latest issue of Reader's Digest, a plain notebook and a pen to jot down things in case I get inspiration. [3]"
+      },
+      {
+        "claim": "The author often frames people and animals as vivid characters through names, habits, or humanizing description.",
+        "evidence": "He was an strong and active fella [4]"
+      },
+      {
+        "claim": "The author sometimes uses comic exaggeration to make small observations feel lively and oversized.",
+        "evidence": "the tiny goldfishes have the appetite of an elephant [4]"
+      },
+      {
+        "claim": "The author occasionally gives a hobby or event a social backdrop by describing it as part of a larger trend or moment.",
+        "evidence": "Keeping flowerhorn fishes were the 'in' season at that time. [4]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops ideas through specific lived scenes and anecdotes rather than abstract discussion.",
+        "evidence": "He would always tell us to bring a dictionary to class during each and every session of his English class... [2]"
+      },
+      {
+        "claim": "The author grounds narratives in concrete local or institutional detail, repeatedly naming schools, classes, places, or dates.",
+        "evidence": "Another few months later on December 31st, 2002. [4]"
+      },
+      {
+        "claim": "The author uses sensory detail to make memories and situations feel embodied and immediate.",
+        "evidence": "Everytime I caught a whiff of it reminded me that he was somewhere near me and possibly looking over my shoulder... [2]"
+      },
+      {
+        "claim": "The author develops character through concrete examples of behavior rather than flat labels.",
+        "evidence": "Despite him being strict, he also encouraged us to strive ahead in learning English... He said that English wasn't a hard subject and if we'd put some effort in learning it, we couldn't fail... [2]"
+      },
+      {
+        "claim": "The author often includes other people's reactions so events and characters feel socially shared rather than isolated.",
+        "evidence": "Some of my friends who have been in his class have said that his cologne is waaaay too 'heavy'... [2]"
+      },
+      {
+        "claim": "The author often reveals emotional depth through regret, grief, or hesitation tied to specific incidents.",
+        "evidence": "Losing a pet felt real painful and just like a little child, I cried hard that night. [4]"
+      },
+      {
+        "claim": "The author creates tension by narrating uncertainty, accidents, and turning points as they are experienced.",
+        "evidence": "I suspect his brain had been damaged as he was unable to swim upright despite the effort in guiding him. [4]"
+      },
+      {
+        "claim": "The author develops supporting figures as active participants within the narrative, creating interpersonal dynamics beyond the main event.",
+        "evidence": "It was now up to my 2 other teammates... It all depend on them... I tell you, my bumbling teammate had rejected his opponent's offer for a draw... I couldn't..."
+      },
+      {
+        "claim": "The author often expands setting through concrete observations of neglected or flawed physical surroundings, mixing description with judgment.",
+        "evidence": "Even though the top part was burnt down, I believe that they could at least repair the bottom half and demolish the completely burnt top half. It's a waste seeing all of those space and shop lots rot away. [3]"
+      },
+      {
+        "claim": "The author sometimes builds self-portraiture through detailed personal possessions and habits, presenting themself as observant and writerly.",
+        "evidence": "Me and my mom crossed to the mainland through the ferry, me holding a plastic bag containing 3 books planned to release there, the latest issue of Reader's Digest, a plain notebook and a pen [3]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author relies heavily on ellipses as a signature pacing device, creating a halting, spoken-on-the-fly rhythm.",
+        "evidence": "I had tried to type this out a few days ago but it stalled and I was unable to finish it... So here is it again... (Please forgive me if there's anything that doesn't seem right... my memory's currently a bit rusty...) [2]"
+      },
+      {
+        "claim": "The author writes in an informal, colloquial voice that preserves conversational phrasing over polished prose.",
+        "evidence": "what the heck, the more the merrier [4]"
+      },
+      {
+        "claim": "The author frequently inserts side comments, self-corrections, and parenthetical asides, making the prose feel like live conversation.",
+        "evidence": "Every lesson was a fun for the class, well, actually it depends on his mood, which is usually good... hehe... [2]"
+      },
+      {
+        "claim": "The author uses rhetorical questions and direct address to pull the reader into the moment.",
+        "evidence": "Can you believe that my opponent had actually given me a free piece?"
+      },
+      {
+        "claim": "The author often uses blunt evaluative wording to express judgment openly rather than neutrally.",
+        "evidence": "Genting sucks, not too badly, but it still sucks. [3]"
+      },
+      {
+        "claim": "The author uses short fragments and clipped reactions to mimic emotional spikes.",
+        "evidence": "Big disadvantage..."
+      },
+      {
+        "claim": "The author mixes specialized or context-specific terms with everyday narration, letting technical language sit inside a casual voice.",
+        "evidence": "I didn't saw the fork coming as he captured my rook for a knight..."
+      },
+      {
+        "claim": "The author uses emphatic informal intensifiers and hyperbolic comparisons to communicate strong feeling.",
+        "evidence": "the tiny goldfishes have the appetite of an elephant [4]"
+      },
+      {
+        "claim": "The author sometimes dramatizes reactions through elongated spelling, quoted slang, or visual emotive markers.",
+        "evidence": "Some of my friends who have been in his class have said that his cologne is waaaay too 'heavy'... [2]"
+      },
+      {
+        "claim": "The author reproduces sounds directly in the prose, giving narration an oral, comic texture.",
+        "evidence": "an 'ulck, ulck, ulck!' sound was coming from a cardboard box on the floor! [3]"
+      }
+    ]
+  },
+  "2938170": {
+    "plot": [
+      {
+        "claim": "The author often opens posts with a music cue that frames the entry like a live personal feed rather than a polished essay.",
+        "evidence": "Music: Thousandfootkrutch - Rawkfist [5]"
+      },
+      {
+        "claim": "The author typically begins with an immediate reaction or practical situation instead of reflective setup.",
+        "evidence": "I gotta wait till someone in this house with a motorized vehicle arrives home from the stupidass rain so I can go someplace. [5]"
+      },
+      {
+        "claim": "The author commonly structures posts as a running schedule or day-by-day log organized by dates and upcoming events.",
+        "evidence": "As it stands this is planning week. I know that I'll be outtie by the 31st, and the 30th is my last day of work. I gotta figure stuff out for the 13th [5]"
+      },
+      {
+        "claim": "The author moves between topics through abrupt spoken pivots rather than formal transitions.",
+        "evidence": "Tyin up loose ends pretty much, me and Ash are friends again and she asked for my new cell phone cause we're suppose to chill soon, but besides that I just wanna chill with Leah before the summer's over. Anyway here's tha poll/survey thinger [5]"
+      },
+      {
+        "claim": "The author builds momentum by chaining events together so the post reads like one continuous stream of happenings.",
+        "evidence": "friday I didnt have an exam so I stopped by Zellers to get a cheap photo album... on saturday i worked... and then saturday night + sunday i studied hardcore for chemistry and then i got 'the call' to go to wonderland with trevor, julie and trudi after exams."
+      },
+      {
+        "claim": "The author often inserts side stories or borrowed formats that interrupt the main topic and become part of the post's structure.",
+        "evidence": "Anyway here's tha poll/survey thinger i TAXED from jess and natalie lol: [5]"
+      },
+      {
+        "claim": "The author sometimes shifts from broad recap into more scene-based narration once a more exciting event begins.",
+        "evidence": "but anyway after exams trev picked me up and we went to clarke to get julie. i was the cool kid walkin through clarke in my school uniform.."
+      },
+      {
+        "claim": "The author often closes in an open-ended or suspended way rather than neatly resolving the main topic.",
+        "evidence": "still waitin... [4]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author often treats everyday life with exaggerated hype and swagger, making routine events feel oversized.",
+        "evidence": "music: busta rhymes - break ya neck bam that was the fastest week ever."
+      },
+      {
+        "claim": "The author reimagines ordinary school or life material as comic performance rather than plain reporting.",
+        "evidence": "started er'off with a freestyle rap and im like yo JD (john demille) hit me with a beat and he started beat boxin and i was rappin [4]"
+      },
+      {
+        "claim": "The author turns mundane logistics into comic mini-dramas through blunt phrasing and attitude.",
+        "evidence": "day pass was fuckin $54.00 and a seasons pass was $99.93 so i jus got that instead."
+      },
+      {
+        "claim": "The author mixes sentimental or transitional material with an irreverent, joking register instead of separating serious and unserious modes.",
+        "evidence": "me and Ash are friends again and she asked for my new cell phone cause we're suppose to chill soon, but besides that I just wanna chill with Leah before the summer's over. [5]"
+      },
+      {
+        "claim": "The author makes posts feel socially networked and interactive by directing readers elsewhere or openly borrowing material from friends.",
+        "evidence": "if u want email me at kidcut@hotmail.com and ill forward the email i sent to keags (2pages) on what happened. [4]"
+      },
+      {
+        "claim": "The author mines autobiographical material for comic self-mythology, presenting himself as an exaggerated character.",
+        "evidence": "a genius who showed off his genius-ness [5]"
+      },
+      {
+        "claim": "The author injects absurd throwaway details mainly for comic texture.",
+        "evidence": "bought a mouse, he was our mascot for the day. his name is crown-ROY-al. like First name=Crown, Middle=Roy, Last=Al."
+      },
+      {
+        "claim": "The author often frames entries with a soundtrack cue, giving posts a mixtape-like mood setter.",
+        "evidence": "music: eve 6 - inside out"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops experience through tightly packed firsthand episodes and social interactions rather than extended introspection.",
+        "evidence": "the whole tourney it rained, and inbetween games we'd go to different malls. at one point i said fuck it, and bought a whole new set of clothes cause mine were soaked. new socks, new shirt, new jeans"
+      },
+      {
+        "claim": "The author often anchors situations with specific dates, schedules, or time markers that make the narrative feel lived and concrete.",
+        "evidence": "the 30th is my last day of work. I gotta figure stuff out for the 13th [5]"
+      },
+      {
+        "claim": "The author populates posts with a large cast of casually named friends, coworkers, teachers, and crushes.",
+        "evidence": "who was your teacher? : Mr. Collins who were your best friends? : Erik McDowell and Adam Creditcott who did you have a crush on? : whitney foskett [5]"
+      },
+      {
+        "claim": "The author makes settings feel specific by naming schools, stores, venues, and other real locations.",
+        "evidence": "I stopped by Zellers to get a cheap photo album... after exams trev picked me up and we went to clarke to get julie... me and julie changed in the n.dot and then we picked up trudi and off to wonderland it was."
+      },
+      {
+        "claim": "The author develops relationships through concrete interactions and plans rather than abstract description.",
+        "evidence": "me and jenn were sittin there at the start and there was a box of donuts so we go and eat some, and later when i see jaqui im like yooo ur that hot girl and we flirted for a bit then i found out those were her donuts"
+      },
+      {
+        "claim": "The author compresses emotional or personal states into blunt labels instead of extended reflection.",
+        "evidence": "then friday was goodness and badness. then more goodness."
+      },
+      {
+        "claim": "The author often presents life as embedded in crews, teams, or recurring social groups.",
+        "evidence": "we'll prolly be the last 2 members of the 6-pack workin a shift [5]"
+      },
+      {
+        "claim": "The author often narrates setups step by step so the joke or payoff lands clearly.",
+        "evidence": "i give her 20 bucks to buy a 15 dollar spray=paint=hat that u can get whatever u want on it. i tell her she can have the extra 5 bucks if she remembers to get them to write WUFU on it"
+      },
+      {
+        "claim": "The author sometimes sketches whole periods of life through compressed anecdotal snapshots or short self-labels.",
+        "evidence": "first grade what were you like? : a little bully [5]"
+      },
+      {
+        "claim": "The author sometimes withholds fuller stories and points readers elsewhere, making the post feel like selected highlights.",
+        "evidence": "i wont go into detail but if u want email me at kidcut@hotmail.com and ill forward the email i sent to keags (2pages) on what happened. [4]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author writes in aggressively casual, slang-heavy language that sounds spoken rather than edited.",
+        "evidence": "alright so bam, monday the 7th i skipped religion to get ready for this english presentation bullshit. [4]"
+      },
+      {
+        "claim": "The author favors long run-on or clipped fast-moving sentences with minimal punctuation, creating a breathless pace.",
+        "evidence": "either I'll be chillin with a friend or goin to kevins party but either way I cant get rid of my 4-9 shift. 21st I get to work with kimmy FINALLY [5]"
+      },
+      {
+        "claim": "The author uses profanity as a core expressive tool for excitement, frustration, and judgment.",
+        "evidence": "holy shit. crazyass week...and a bit. [4]"
+      },
+      {
+        "claim": "The author uses nonstandard spelling and shorthand to preserve spoken voice and speed.",
+        "evidence": "thas cool cause i didnt wanna finish high school with any grudges"
+      },
+      {
+        "claim": "The author uses sound-effect interjections as emphatic punctuation inside narration.",
+        "evidence": "BAM one girl pointed her out in the food court so i walked up behind her and WHACK"
+      },
+      {
+        "claim": "The author mixes abrasive slang with playful or joking phrasing in the same sentence.",
+        "evidence": "stupidass lil burger king nano pets"
+      },
+      {
+        "claim": "The author imports chat-style symbols and stage-direction cues into prose.",
+        "evidence": "shes like :O but she turned around and we hugged *awww*"
+      },
+      {
+        "claim": "The author preserves spontaneity through filler phrases and self-corrections.",
+        "evidence": "ummm dancin with yvanna was fun. my date kathleen looked hot and i danced with aleks, still waitin on the pictures. then oh yah [4]"
+      },
+      {
+        "claim": "The author uses nonstandard visual formatting and symbols for expressive emphasis.",
+        "evidence": "saturday night + sunday i studied hardcore for chemistry"
+      },
+      {
+        "claim": "The author amplifies emphasis through all-caps and typographic performance.",
+        "evidence": "they ACTUALLY published it in the June issue."
+      }
+    ]
+  },
+  "741128": {
+    "plot": [
+      {
+        "claim": "The author often opens by dropping the reader into an active thought or reaction rather than beginning with neutral background.",
+        "evidence": "\"Reading a history of modern art, it occurred to me that many of the cliches about how the photograph impacted the visual arts are true.\" [4]"
+      },
+      {
+        "claim": "The author often states a position early and then publicly qualifies or revises it as the piece proceeds.",
+        "evidence": "\"The research numbers sort of give the lie to what I said, but just a little bit.\" [5]"
+      },
+      {
+        "claim": "The author frequently reorganizes a post through explicit reframing or directional turns rather than fixed sectioning.",
+        "evidence": "\"Or, take the idea a different direction, so that the artist's emotions are not so privileged.\" [4]"
+      },
+      {
+        "claim": "The author often structures a piece around serial contrasts that sharpen the central claim.",
+        "evidence": "\"People are listening to AUDIO about the same amount. But they're listening to recorded audio more, and live radio less.\" [5]"
+      },
+      {
+        "claim": "The author often uses a borrowed source or outside material as a frame, introducing it briefly before extracting a larger point.",
+        "evidence": "\"On this web page there is some data about how much of different media people are consuming. (It's not the main point of the (pretty interesting) article, but just look under the heading 'Consumption of Information'.)\" [5]"
+      },
+      {
+        "claim": "The author often moves from broad cultural or technological framing to a specific social consequence or case.",
+        "evidence": "\"what a funny century it was, to bring us abruptly cheek to cheek with phrases like 'women work' and 'death of the suit'. And so men's stores must be redesigned completely.\""
+      },
+      {
+        "claim": "The author sometimes marks a mid-essay turn toward a larger analogy that becomes the real subject of the post.",
+        "evidence": "\"This has all been said better elsewhere; my point today is that there is an analogy to be drawn between photography's impact on painting and recording's impact on popular music.\" [4]"
+      },
+      {
+        "claim": "The author often closes provisionally, ending by pointing toward an ongoing project or unresolved conceptual line rather than a firm summary.",
+        "evidence": "\"The research project I'm working on right now is an attempt to suggest a revamped notion of (at least talk) radio.\" [5]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author often recasts a topic through an unexpected cross-domain analogy rather than discussing it in standard terms.",
+        "evidence": "\"my point today is that there is an analogy to be drawn between photography's impact on painting and recording's impact on popular music.\" [4]"
+      },
+      {
+        "claim": "The author reimagines abstract social change through vivid physical metaphors.",
+        "evidence": "\"We're in this period where the implications of a few massive societal earthquakes, decades old, are being worked out as a series of little rockfalls, all over the place.\""
+      },
+      {
+        "claim": "The author creates surprise by pairing broad cultural claims with oddly specific practical consequences.",
+        "evidence": "\"And so men's stores must be redesigned completely.\""
+      },
+      {
+        "claim": "The author blends high-cultural reference with colloquial or technological discourse in a playful way.",
+        "evidence": "\"radio will have to compete with a Borges library.\" [5]"
+      },
+      {
+        "claim": "The author uses parenthetical or side-comment humor to keep abstract discussion self-aware and lively.",
+        "evidence": "\"They worked really hard, and copying took a damn long time (and they had to practice their penmanship...do you think any of us today could hold his own in secretary hand? Anyway\" [2]"
+      },
+      {
+        "claim": "The author animates cultural or technological change through vivid miniature scenes and spatial imagery.",
+        "evidence": "\"when the performance system completed its transfer across the living room from the piano bench to the Victrola. (And kept going, up the stairs, into the kids' bedrooms.)\" [3]"
+      },
+      {
+        "claim": "The author sometimes turns aesthetic or conceptual argument into visual or bodily imagery that feels slightly comic.",
+        "evidence": "\"But now, in nonrepresentational (or less-representational) art, with the stage taken away, they go barefoot. Or they stand on stilts.\" [4]"
+      },
+      {
+        "claim": "The author injects dry wit through blunt, ungainly, or exaggerated phrasing.",
+        "evidence": "\"then you'll have a gajillion songs in your pocket.\" [5]"
+      },
+      {
+        "claim": "The author makes surprising conceptual moves by redefining a medium's value in social rather than technical terms.",
+        "evidence": "\"People want to hear what other people are up to; being alone in a huge library is solipsistic, chaotic, impersonal.\" [5]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author often develops arguments by tracing causal chains from technologies or systems to cultural behavior.",
+        "evidence": "\"With the advent of the press, the economic bottleneck around reproducing texts virtually disappeared, so that a) more people could afford texts (and thus found it worth their while to be able to read them). Partly from the cheapening of reproduction, and partly from the democratizing effects of (a), a greater variety of texts came into printed circulation\" [2]"
+      },
+      {
+        "claim": "The author grounds abstraction in material and institutional details such as labor, access, cost, and reproduction.",
+        "evidence": "\"As a result of the technological bottleneck of manuscript copying, texts were quite expensive and hard to come by, and literacy was only really useful for people whose economic station allowed them to consume manuscripts.\" [2]"
+      },
+      {
+        "claim": "The author often develops a post by summarizing another person's or another field's argument and then redirecting it into a different framework.",
+        "evidence": "\"You compare the advent of recorded music with that of photography, and consider that rock and roll is analogous to expressionism/nonrepresentationality as a new genre built on the base (as it were) of the new technology. I wonder, though, if you'd do better to rewind to the printing press analogy\" [2]"
+      },
+      {
+        "claim": "The author deepens discussion by acknowledging the limits of one explanation and opening a second line of thought.",
+        "evidence": "\"Of course, what I'm saying does not touch on the Clement Greenberg side of your argument... but rather timbre\" [2]"
+      },
+      {
+        "claim": "The author often grounds abstractions in socially specific scenes or inherited memory.",
+        "evidence": "\"Think, though, of the typical way that common people (such as my grandfather in London) experienced music in, say, 1935 (or 1895).\" [3]"
+      },
+      {
+        "claim": "The author often dwells on concrete process details that show how people physically engaged with cultural materials.",
+        "evidence": "\"It cost next to nothing to have an evening at home full of hours of music, provided that there was a piano, and a player, and a singer.\" [3]"
+      },
+      {
+        "claim": "The author expands points through accumulation, listing actions or attributes to convey the texture of cultural participation.",
+        "evidence": "\"People had a visual culture by whose lights they interpreted, enjoyed, learned from, collected, coveted, and despised various painted artifacts.\" [3]"
+      },
+      {
+        "claim": "The author uses single examples as springboards for abstract reasoning rather than as endpoints of illustration.",
+        "evidence": "\"Holofernes having his head cut off, for example -- for no matter how expressive that selection might be, no matter how loosely it might be conjured, there is more emotional veracity to be had in a picture of a non-possible world (or that's the claim).\" [4]"
+      },
+      {
+        "claim": "The author often develops ideas by shifting between competing conceptual frameworks.",
+        "evidence": "\"The urgency is upon the artist to express with emotional charge... Say the point of a painting is to arouse emotions in the spectator.\" [4]"
+      },
+      {
+        "claim": "The author sometimes advances an argument through explicit quantitative comparison and then uses those numbers to qualify an intuition.",
+        "evidence": "\"Radio consumption went down by something like 8% over the period of 1992-2000... But recorded music consumption was up by 15%.\" [5]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author uses a hybrid diction that mixes casual speech with theoretical or analytical terminology.",
+        "evidence": "\"The research numbers sort of give the lie to what I said, but just a little bit.\" [5]"
+      },
+      {
+        "claim": "The author favors long, layered sentences with subordinate clauses when developing an argument in detail.",
+        "evidence": "\"This is different from crafting an accurate picture of a selected possible world -- Holofernes having his head cut off, for example -- for no matter how expressive that selection might be, no matter how loosely it might be conjured, there is more emotional veracity to be had in a picture of a non-possible world (or that's the claim).\" [4]"
+      },
+      {
+        "claim": "The author can also write in a compact, elliptical mode that omits connective explanation.",
+        "evidence": "\"From NYT, snapshot of one or two social dominoes falling.\""
+      },
+      {
+        "claim": "The author uses parentheses and dashes to stage digressions and side-thoughts inside the sentence.",
+        "evidence": "\"Brandon, Since I have ten other things I should be doing, I took a peek at your blog only to find--voila--that you had been super active since I last seen it.\" [2]"
+      },
+      {
+        "claim": "The author favors vivid figurative nouns and compressed compounds over neutral analytical wording.",
+        "evidence": "\"Internet-eyeball-hours\" [5]"
+      },
+      {
+        "claim": "The author uses short punchy sentences or fragments for emphasis and interpretive turns.",
+        "evidence": "\"A brand-new vision.\" [4]"
+      },
+      {
+        "claim": "The author uses rhetorical questions to invite readers into a thinking-aloud mode.",
+        "evidence": "\"do you think any of us today could hold his own in secretary hand?\" [2]"
+      },
+      {
+        "claim": "The author uses compressed evaluative phrasing to register judgment with wit and force.",
+        "evidence": "\"which I think is interesting but wrong. Nonetheless, more interesting than wrong.\" [2]"
+      },
+      {
+        "claim": "The author uses expressive punctuation and typographic emphasis, including semicolons, dashes, italics, underscores, and parentheses, to signal thought in motion.",
+        "evidence": "\"the latter of which basically was _invented_ once the presses got going\" [3]"
+      },
+      {
+        "claim": "The author sometimes uses parallel syntax and collective-belief phrasing to make conceptual contrasts sound aphoristic.",
+        "evidence": "\"We believe that a photograph is how things look; we believe that a recording is how things sound.\" [4]"
+      }
+    ]
+  },
+  "240089": {
+    "plot": [
+      {
+        "claim": "The author often opens by dropping the reader into an ongoing situation before expanding or diverting from it.",
+        "evidence": "It begins when he takes his first step onto the Dodger Stadium outfield grass, leaving the infield and trotting toward the hot corner from hell."
+      },
+      {
+        "claim": "The author frequently shifts from an initial topic into a looser chain of related or unrelated developments.",
+        "evidence": "but i noticed i haven't gone on any sort of rant for a while, so i thought i'd sit down and make an effort. here goes... [5]"
+      },
+      {
+        "claim": "The author often organizes material as a sequence of discrete incidents, sections, or items rather than a single continuously argued line.",
+        "evidence": "It's about the colors. ... It's about the rumors. ... It's about the low pants, the casual posture, the slow gait, the shrugs..."
+      },
+      {
+        "claim": "The author builds pieces through accumulation and escalation, letting one moment or complaint intensify into a broader pattern.",
+        "evidence": "It continues like this for an entire half-inning, for nine half-innings, for a dozen years now"
+      },
+      {
+        "claim": "The author often delays interpretation until after a vivid setup, allowing the reader to experience the scene before the framing arrives.",
+        "evidence": "One of the greatest players in baseball history may be the most booed visiting player in Los Angeles sports history. Except, of course, for those moments just before Barry Bonds actually swings his bat."
+      },
+      {
+        "claim": "The author often structures conflict through opposing claims and rebuttals.",
+        "evidence": "The CHP, he said, supported the effort. Not so, Helmick said."
+      },
+      {
+        "claim": "The author likes late-stage reversals that complicate earlier claims.",
+        "evidence": "A few minutes later, Lewin, a bit chastened, phoned the reporter back."
+      },
+      {
+        "claim": "The author often closes on an unresolved or still-developing note rather than a sealed conclusion.",
+        "evidence": "The association is still planning to sell the stickers, he said. But Lewin stressed that they would not give doctors the right to speed on freeways or drive in the carpool lane...."
+      },
+      {
+        "claim": "The author sometimes gives disproportionate space to one standout scene, turning a recap into a featured set piece.",
+        "evidence": "when we finally set up our drinks (with the shot of sake resting on chopsticks atop the glass of sapporo), we pounded the table in unison whilst shouting, 'SAKE BOMB!!' at which point the entire restaurant looked our way as we chugged our drinks. [4]"
+      },
+      {
+        "claim": "The author sometimes ends in mid-thought or mid-complaint, preserving the feeling of an ongoing diary entry.",
+        "evidence": "- Los Angeles still sucks. i've definitely... [5]"
+      }
+    ],
+    "creativity": [
+      {
+        "claim": "The author often builds humor through extended conceits that recast familiar situations in unexpected conceptual terms.",
+        "evidence": "I've been running the same version of DrinkingBuddies 1.0 forever as my primary application, and all the GirlFriend releases I've tried have always conflicted with it. [3]"
+      },
+      {
+        "claim": "The author creates humor by framing complaint itself as a deliberate performance.",
+        "evidence": "but i noticed i haven't gone on any sort of rant for a while, so i thought i'd sit down and make an effort. here goes... [5]"
+      },
+      {
+        "claim": "The author favors exaggerated comparisons that make judgments feel absurd and memorable.",
+        "evidence": "They might as well be chanting, 'The Grand Canyon sucks, the Grand Canyon sucks.'"
+      },
+      {
+        "claim": "The author often makes people, settings, or situations vivid through stylized labels and compressed images.",
+        "evidence": "the hot corner from hell"
+      },
+      {
+        "claim": "The author blends reported or procedural material with theatrical character moments.",
+        "evidence": "The CHP chief said he wanted to talk to Lewin, and asked a reporter for his phone number. 'He's going to be my next call!'"
+      },
+      {
+        "claim": "The author uses technical or historically specific language as a comic device.",
+        "evidence": "He said I probably didn't have enough cache to run GirlFriend 2.0, and eventually it would require a Token Ring to run properly. [3]"
+      },
+      {
+        "claim": "The author finds comedy in contradiction by spotlighting the mismatch between a claim and the obvious facts.",
+        "evidence": "They are chanting that Barry Bonds stinks. You can say a lot of things about Barry Bonds, but does he really stink?"
+      },
+      {
+        "claim": "The author uses exaggerated observational comedy to make repeated behavior seem ridiculous.",
+        "evidence": "after the women get to see themselves in the mirror, they automatically cover their mouths with hands in an act of astonishment. but i think that's pretty stupid because they're covering up what was worked on. [5]"
+      },
+      {
+        "claim": "The author reinterprets human problems through mechanical metaphor to make criticism concrete and unexpected.",
+        "evidence": "it just seems to me that they're taking a car that's not running well, the paint is peeling, and there's a couple dents, so they go out and get all that bodywork done without working under the hood. [5]"
+      },
+      {
+        "claim": "The author turns ordinary frustrations or outings into comic spectacle by emphasizing the narrator's reaction and the surrounding audience.",
+        "evidence": "at which point the entire restaurant looked our way as we chugged our drinks. [4]"
+      }
+    ],
+    "development": [
+      {
+        "claim": "The author develops ideas through concrete scenes or mini-scenarios rather than abstract summary.",
+        "evidence": "I tried running GirlFriend 1.0 again with GirlFriend 4.0 still installed, but GirlFriend 4.0 has a feature I didn't know about that automatically senses the presence of any other version of GirlFriend and communicates with it in some way, which results in the immediate removal of both versions. [3]"
+      },
+      {
+        "claim": "The author develops people through direct quotation that reveals attitude and personality.",
+        "evidence": "\"We're not supporting this,\" Helmick said. \"It's just a law that the California Legislature put on the books 70 years ago.\""
+      },
+      {
+        "claim": "The author often builds depth by bringing in multiple voices, so a crowd or controversy feels socially layered.",
+        "evidence": "\"Excuse me a second,\" says Gilbert Chavez ... \"I have to watch him hit.\""
+      },
+      {
+        "claim": "The author gives situations practical contour through precise operational detail.",
+        "evidence": "It only allows them to go faster than the posted speed when it is lower than that mostly on city streets and rural roads and then only in medical emergencies."
+      },
+      {
+        "claim": "The author often includes shifts in emotional temperature, showing moments turn sharply from one mood to another.",
+        "evidence": "sitting among the suddenly silent masses in the Dodger Stadium left-field pavilion Tuesday night"
+      },
+      {
+        "claim": "The author broadens present moments by linking them to a longer time span.",
+        "evidence": "for an entire half-inning, for nine half-innings, for a dozen years now"
+      },
+      {
+        "claim": "The author uses side examples or secondary cases to widen the frame beyond the main incident.",
+        "evidence": "A year ago, a friend of mine upgraded his version of GirlFriend to GirlFriendPlus 1.0, which is a Terminate and Stay Resident version of GirlFriend. [3]"
+      },
+      {
+        "claim": "The author sometimes builds a mini-arc in which confidence gives way to correction or embarrassment.",
+        "evidence": "A few minutes later, Lewin, a bit chastened, phoned the reporter back."
+      },
+      {
+        "claim": "The author elaborates reactions with concrete, sensory social details that make the target vivid.",
+        "evidence": "she has the fakest accent ever... it sounds like a mix between english and australian with an occasional canadian 'oot' or 'aboot.' [5]"
+      },
+      {
+        "claim": "The author deepens criticism by staging imagined inner monologue for the people being described.",
+        "evidence": "it's like they're thinking, 'i'm so depressed, my marriage is in the crapper, and my life just blows all because i'm not attractive... if only i could change my appearance, life would be great!' [5]"
+      }
+    ],
+    "language_use": [
+      {
+        "claim": "The author writes in a rhythmic style that often leans on repetition and parallel phrasing.",
+        "evidence": "It continues when he reaches the worn patch of outfield grass... It continues like this for an entire half-inning, for nine half-innings, for a dozen years now"
+      },
+      {
+        "claim": "The author can also use an aggressively informal, lowercased voice that feels like unfiltered live speech.",
+        "evidence": "so psych is still raging onward [5]"
+      },
+      {
+        "claim": "The author relies on ellipses to create drifting, think-aloud pacing.",
+        "evidence": "but it's become more tolerable just because i know the routine now and i don't feel so lost... don't get me wrong, i still hate every second of it. [5]"
+      },
+      {
+        "claim": "The author favors compressed, vivid phrasing that makes descriptions punchy and memorable.",
+        "evidence": "the hot corner from hell"
+      },
+      {
+        "claim": "The author mixes elevated or literary phrasing with conversational language.",
+        "evidence": "But such is the beauty of one of sports' coolest rivalries, in spawning one of its oddest couplings."
+      },
+      {
+        "claim": "The author uses contrastive pivots and short corrective turns to sharpen momentum.",
+        "evidence": "The CHP, he said, supported the effort. Not so, Helmick said."
+      },
+      {
+        "claim": "The author relies on metaphor and simile to express judgments vividly.",
+        "evidence": "It's like throwing mud on the Mona Lisa. It's like jeering a monument."
+      },
+      {
+        "claim": "The author often lets quoted sound and speech carry energy on the page.",
+        "evidence": "\"Bar-ry sucks, Bar-ry sucks.\" ... \"BAL-CO, BAL-CO, BAL-CO.\" ... \"Ster-oids, ster-oids.\""
+      },
+      {
+        "claim": "The author's voice is openly evaluative and willing to sound blunt or vulgar rather than neutral.",
+        "evidence": "i don't give a fuck. [5]"
+      },
+      {
+        "claim": "The author uses sentence-length variation, alternating brief punches with longer accumulative lines.",
+        "evidence": "But the head of the California Highway Patrol is not pleased."
+      }
+    ]
+  }
+}

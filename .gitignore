@@ -1,0 +1,8 @@
+.venv
+dataset/**/parsed_*.jsonl
+dataset/hacodet/
+dataset/blogspot/blogtext.csv
+weights/
+logs/
+__pycache__/
+*.py[cod]
